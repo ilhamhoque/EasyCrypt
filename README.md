@@ -69,7 +69,7 @@ pip install py2app  # For MacOS users building a standalone app
 ├── PasswordVault_*              # Password vault UIs & DB
 ├── FAQ_UI.py                    # FAQ window
 ├── setup.py                     # Build as executable
-├── assets/                      # Icons, logos etc.
+├── images/                      # Icons, logos etc.
 ```
 
 ---
