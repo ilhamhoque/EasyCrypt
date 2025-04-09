@@ -55,7 +55,6 @@ pip install py2app  # For MacOS users building a standalone app
 |---------|-------------|-------------|----------------|
 | ![Homepage](readme_images/homepage.png) | ![Encrypt](readme_images/encrypt.png) | ![Decrypt](readme_images/decrypt.png) | ![Password Vault Login](readme_images/passwordvault_login.png) |
 
-> Screenshots should be placed in an `images/` folder.
 
 ---
 
